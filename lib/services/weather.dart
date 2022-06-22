@@ -2,7 +2,7 @@ import 'package:clima/services/location.dart';
 import 'package:clima/services/networking.dart';
 
 class WeatherModel {
-  final apiKey = "91607f3a43753e9533c57add81801360";
+  final apiKey = "De api key is gedeactiveerd";
 
   String getWeatherIcon(int condition) {
     if (condition < 300) {
